@@ -3,7 +3,7 @@ export const main = {
     "description": "I'm full stack web developer",
     "image": "profilepic.jpg",
     "bio": "I am Nafiz Sheikh. A young entrepreneur. With nearly 2 years of experience, I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
-    "email": "nafizahmed881@gmail.com",
+    "email": "nafizahmed394@gmail.com",
     "phone": "+880 1875799476",
     "quote": "The universe is a pretty big place. If it's just us.",
     "address": "Nawabganj, Dhaka, Bangladesh",
@@ -44,7 +44,7 @@ export const about = {
     "years": 2,
     "image": "img/profilepic.jpg",
     // "video": "https://www.youtube.com/watch?v=ghQd1PbzVaY",
-    "resumedownload": "",
+    "resumedownload": "https://docs.google.com/document/d/1GXjSz0-phEr2dr5mojArwraFAnDpzLGcMBcw1vJw4z8/edit?usp=sharing",
 }
 
 export const works = [
